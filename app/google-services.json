@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329869483299",
+    "firebase_url": "https://videoapp-fea11.firebaseio.com",
+    "project_id": "videoapp-fea11",
+    "storage_bucket": "videoapp-fea11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329869483299:android:cc6a72b5f3e90f64508096",
+        "android_client_info": {
+          "package_name": "com.example.vidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329869483299-760ed3pd9sgk2fa4qn7kr3lm24utpcfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGBxjfF-72pRpm9sssiI1wQ2UPOUzd99U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329869483299-760ed3pd9sgk2fa4qn7kr3lm24utpcfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
